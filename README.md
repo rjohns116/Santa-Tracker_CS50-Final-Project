@@ -32,9 +32,9 @@ Additionally, I chose not to organize the logic for tracking Santa into a class 
 
 # Acknowledgements
 
-Thank you to David J. Malan and Harvard's ![CS50: Introduction to Programming with Python](https://cs50.harvard.edu/python/) for creating the opportunity to develop this project. 
+Thank you to David J. Malan and Harvard's [CS50: Introduction to Programming with Python](https://cs50.harvard.edu/python/) for creating the opportunity to develop this project. 
 
-My completed CS50 certificate can be viewed ![here](file:///C:/Users/rlynj/OneDrive/Desktop/CS50P%20Certificate.pdf).
+My completed CS50 certificate can be viewed [here](https://www.linkedin.com/in/rachael-johnson-61637a210) on my LinkedIn.
 
 
 
